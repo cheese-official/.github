@@ -13,7 +13,9 @@ Cheese is a dairy product produced in wide ranges of flavors, textures and forms
 
 ## Products we offer
 
-* [Cheese website](https://cheese-official.github.io/cheese/)
+* [Cheese website](https://cheese-official.github.io/cheese/) - Powered by Github Pages!
+* [Command Line Application](https://github.com/WillTheDeveloper/cheese-cli) - Powerered by Ruby.
+* [Cheesy API](https://github.com/WillTheDeveloper/cheese-api) - Powered by GraphQL!
 
 ## Our mascot
 
