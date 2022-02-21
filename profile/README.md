@@ -1,6 +1,8 @@
 
 # Cheese
 
+*Please don't absolutely obliterate or delete anything that belongs to someone else. Everything is logged and you will be removed. From - Will :)*
+
 ## Who are we?
 
 We are cheese lovers.
